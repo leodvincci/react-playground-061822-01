@@ -1,5 +1,17 @@
-.App {
-  text-align: center;
+.card-img{
+
+  width: 220px;
+  height: 320px;
+  border-radius: 25px 25px 25px 25px;
 }
 
 
+.card-page{
+  background-color: #f3f3f3;
+  height: 760px;
+}
+
+.card-info{
+  display: flex;
+  font-size: 14px;
+}
